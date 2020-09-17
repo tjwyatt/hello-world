@@ -7,4 +7,5 @@ My name is Tyler Wyatt. I am trying to learn how to use GitHub for my Master's T
 
 This is a test. 
 
+This is also a test.
 
